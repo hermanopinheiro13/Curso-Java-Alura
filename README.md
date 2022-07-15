@@ -15,3 +15,5 @@ Para fazer isso, tive que baixar o git no meu computador, fazer as configuraçõ
 
 
 Após isso, irei criar o repositório no github pelo VSCode.
+
+Commitado dia 15/07/22
